@@ -17,4 +17,4 @@ All the resources in sessions will be available in this repository.
   - [installing JDK 8 for windows](https://youtu.be/ZkEc_UEDCRY)
 - intelliJ idea
   -  [intelliJ idea 2020 installation for windows](https://youtu.be/-a_t1JC37FU)
-- [How to use emulator in intellij](https://drive.google.com/file/d/1DWd9qrodU7s5JxbcHwQvgp5jtKOXcpq7/view?usp=sharing)
+- [How to use intellij in Android development](https://drive.google.com/file/d/1DWd9qrodU7s5JxbcHwQvgp5jtKOXcpq7/view?usp=sharing)
