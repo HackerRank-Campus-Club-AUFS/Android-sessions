@@ -5,7 +5,7 @@ All the resources in sessions will be available in this repository.
 
 ## Revisions
 
-1. [Object Orianted Programming (OOP) in Java](/1.%20OOP%20Revision)
+1. [Object Orianted Programming (OOP) in Java](https://github.com/HackerRank-Campus-Club-AUFS/Android-sessions/tree/main/1.%20OOP%20Revision)
 
 
 ## Sessions
