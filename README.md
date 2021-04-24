@@ -5,12 +5,12 @@ All the resources in sessions will be available in this repository.
 
 ## Revisions
 
-1. [Object Orianted Programming (OOP) in Java](https://github.com/HackerRank-Campus-Club-AUFS/Android-sessions/tree/main/1.%20OOP%20Revision)
+1. [Object Orianted Programming (OOP) in Java](https://github.com/HackerRank-Campus-Club-AUFS/Android-sessions/tree/main/0.%20OOP%20Revision)
 
 
 ## Sessions
 
-      coming soon 🤓
+1. [1. Introduction to android - Views and Layouts](https://github.com/HackerRank-Campus-Club-AUFS/Android-sessions/tree/main/1.%20Introduction%20to%20android%20-%20Views%20and%20Layouts)
 
 ## Requirements
 - JDK 8
