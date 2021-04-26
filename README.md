@@ -12,6 +12,8 @@ All the resources in sessions will be available in this repository.
 
 1. [Introduction to android - Views and Layouts](https://github.com/HackerRank-Campus-Club-AUFS/Android-sessions/tree/main/1.%20Introduction%20to%20android%20-%20Views%20and%20Layouts)
 
+2. [Calculator App Example](https://github.com/HackerRank-Campus-Club-AUFS/Android-sessions/tree/main/2.%20Calculator%20App%20Example)
+
 ## Requirements
 - JDK 8
   - [installing JDK 8 for windows](https://youtu.be/ZkEc_UEDCRY)
