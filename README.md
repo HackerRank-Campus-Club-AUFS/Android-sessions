@@ -14,6 +14,8 @@ All the resources in sessions will be available in this repository.
 
 2. [Calculator App Example](https://github.com/HackerRank-Campus-Club-AUFS/Android-sessions/tree/main/2.%20Calculator%20App%20Example)
 
+3. [3. Todo List (Recycler view example)](https://github.com/HackerRank-Campus-Club-AUFS/Android-sessions/tree/main/3.%20Todo%20List%20(Recycler%20view%20example))
+
 ## Requirements
 - JDK 8
   - [installing JDK 8 for windows](https://youtu.be/ZkEc_UEDCRY)
