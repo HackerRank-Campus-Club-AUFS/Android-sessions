@@ -16,6 +16,8 @@ All the resources in sessions will be available in this repository.
 
 3. [Todo List (Recycler view example)](https://github.com/HackerRank-Campus-Club-AUFS/Android-sessions/tree/main/3.%20Todo%20List%20(Recycler%20view%20example))
 
+4. [Contact List (Recycler view example)](https://github.com/HackerRank-Campus-Club-AUFS/Android-sessions/tree/main/4.%20Contact%20List%20(Recycler%20View%20Example))
+
 ## Requirements
 - JDK 8
   - [installing JDK 8 for windows](https://youtu.be/ZkEc_UEDCRY)
